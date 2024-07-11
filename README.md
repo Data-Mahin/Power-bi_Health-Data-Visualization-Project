@@ -1,1 +1,2 @@
 # Power-bi_Health-Data-Visualization-Project
+This project focuses on visualizing health data to provide insights into various key performance indicators (KPIs) related to patient health. The data covers metrics such as total patients, stroke patients, heart attack patients, and their corresponding percentages. Additionally, the project explores health conditions based on gender, race, and occupation through various charts and graphs.
